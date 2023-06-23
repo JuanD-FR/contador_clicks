@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contador_clicks/static/css/main.1ee30b9a.css",
+    "main.js": "/contador_clicks/static/js/main.13a49b0a.js",
+    "index.html": "/contador_clicks/index.html",
+    "main.1ee30b9a.css.map": "/contador_clicks/static/css/main.1ee30b9a.css.map",
+    "main.13a49b0a.js.map": "/contador_clicks/static/js/main.13a49b0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ee30b9a.css",
+    "static/js/main.13a49b0a.js"
+  ]
+}
